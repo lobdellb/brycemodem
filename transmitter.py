@@ -20,10 +20,10 @@ fs = 16000
 
 one_amplitude = 1.0
 zero_amplitude = 0.25
-baud = 3000
+baud = 10
 chip_period = 1 / baud # in seconds
 
-carrier_freq = 3000
+carrier_freq = 2000
 sync_freq = 500
 
 # let's start by assembling the whole signal a priori and sending at once
