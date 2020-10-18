@@ -11,10 +11,10 @@ import string
 import common as c
 
 
-message = "Bryce is a sexy bitch. And he adores Cody more than anything!!!" 
+message = "Bryce is a sexy bitch. And Chicago is the greatest of all cities!!!" 
 
-letters = string.ascii_lowercase
-message = "".join( random.choice(letters) for i in range(0,len(message)*500 ) )
+#letters = string.ascii_lowercase
+#message = "".join( random.choice(letters) for i in range(0,len(message)*500 ) )
 
 fs = 16000
 
